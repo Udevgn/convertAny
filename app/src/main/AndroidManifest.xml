@@ -18,7 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Docs_Activity"></activity>
+        <activity android:name=".Docs_Activity" />
+        <activity android:name=".Video_Activity"></activity>
     </application>
 
 </manifest>
